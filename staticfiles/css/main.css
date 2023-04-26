@@ -1,0 +1,5 @@
+.dec {
+    text-decoration-line: underline;
+    text-decoration-color: aqua;
+    text-decoration-thickness: 3px;
+}
